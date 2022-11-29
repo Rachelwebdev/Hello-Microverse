@@ -72,14 +72,10 @@ LinkedIn: Rachel Isaac
 
 (back to top)
 
-(back to top)
-
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the issues page.
-
-(back to top)
 
 (back to top)
 
