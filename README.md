@@ -11,14 +11,10 @@ Setup
 Prerequisites
 Install
 Usage
-Run tests
-Deployment
 👥 Authors
-🔭 Future Features
 🤝 Contributing
-⭐️ Show your support
 🙏 Acknowledgements
-❓ FAQ
+
 📝 License
 📖 Hello Microverse
 Describe your project in 1 or 2 sentences.
