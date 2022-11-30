@@ -45,6 +45,10 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
+## 💻 Getting Started <a name="getting-started"></a>
+
+### Prerequisites
+
 ### Prerequisites
 
 In order to run this project you need:
@@ -60,13 +64,17 @@ Clone this repository to your desired folder:
 ### Install
 
 Install this project with:
-
 A commandline interface e.g Gitbash
 
 ### Usage
 
 To run the project, execute the following command:
 
+### Usage
+
+To run the project, execute the following command:
+
+To run the project, execute the following command:
 Click on the live server button on your IDE
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -81,15 +89,15 @@ Click on the live server button on your IDE
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🤝 Contributing <a name="contributing"></a>
-
+🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><p align="right">(<a href="#readme-top"><a href="#readme-top">back to top</a></a>)</p></p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+🙏 Acknowledgments
+Give credit to everyone who inspired your codebase.
 
 I would like to thank Microverse for the learning materials provided for this exercise, and my coding partners for answering my questions when I got stuck.
 
@@ -97,4 +105,7 @@ I would like to thank Microverse for the learning materials provided for this ex
 
 ## 📝 License <a name="license"></a>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+📝 License
 This project is MIT licensed.
